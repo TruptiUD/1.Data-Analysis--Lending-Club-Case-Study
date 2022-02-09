@@ -40,7 +40,7 @@ Two types of risks are associated with the bank’s decision:
 
 ----
 ### Project completion steps as follow (based on EDA)
-**Note** :- All the Bellow steps are mention SECTION wise in .ipynb file uploaded here (https://github.com/TruptiUD/Lending-Club-Case-Study/blob/main/Lending%20Club%20Case%20Study.pdf) .
+**Note** :- All the Bellow steps are mention SECTION wise in .ipynb file uploaded here https://github.com/TruptiUD/Lending-Club-Case-Study/blob/main/Trupti_Dhumal.ipynb)
 1. Data Understanding
    1. analysing high level overview of dataframe
    2. analysing indivisual columns
@@ -59,6 +59,6 @@ Two types of risks are associated with the bank’s decision:
       2. Business Driven Metrics
       3. Data Driven Metrics
 5. Presentation 
-   presentation File in pdf format is uploaded here (https://github.com/TruptiUD/Lending-Club-Case-Study/blob/main/Trupti_Dhumal.ipynb).
+   presentation File in pdf format is uploaded here (https://github.com/TruptiUD/Lending-Club-Case-Study/blob/main/Lending%20Club%20Case%20Study.pdf).
 5. Recommndations :- all recommandations are included in provided presentation file.
 ----
